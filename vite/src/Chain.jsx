@@ -1,8 +1,12 @@
+import { useState } from "react";
+
 
 
 function Chain(){
+   
     return(
-            <h3>Chai is ready</h3>
+        
+
     )
 }
 
